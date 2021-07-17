@@ -7,7 +7,7 @@
 
 ## You can call me Thunthean :) 
 
-- 👦 I'm from Cambodia him/he
+- 👦 I'm from Cambodia Him/He
 - 🔭 I’m currently working on a [VS Code Course][DiscordBot Developer]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
