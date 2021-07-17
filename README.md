@@ -7,10 +7,12 @@
 
 ## You can call me Thunthean :) 
 
+- 👦 I'm from Cambodia 
 - 🔭 I’m currently working on a [VS Code Course][DiscordBot Developer]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listening to music
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
