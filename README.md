@@ -13,6 +13,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listening to music
 
+# Heres my stats - <br >
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TH3an)
+
 
 # Stats of my Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3an&layout=compact)
