@@ -14,9 +14,8 @@
 - ⚡ Fun fact: I love to listening to music
 
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+# Stats of my Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3an&layout=compact)
 
 
 ### Languages and Tools:
