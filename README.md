@@ -1,4 +1,4 @@
-### Hi There, I'm Thean [Thun Thean Nicky Facebook](https://facebook.com/theannicky) 👋
+### Hi There, I'm Thean [Thun Thean Nicky Facebook](https://www.facebook.com/thun.theansp) 👋
 
 [[Invite bot](https://discord.com/oauth2/authorize?client_id=828154554624638976&permissions=4286053751&scope=bot)]
 
