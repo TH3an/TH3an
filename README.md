@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3an&layout=compact&theme=radical)
 
 # My Streaks and contributions
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TH3an&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TH3an&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
