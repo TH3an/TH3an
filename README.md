@@ -10,7 +10,7 @@
 - 👦 I'm from Cambodia Him/He
 - 🔭 I’m currently working on a [VS Code Course][DiscordBot Developer]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listening to music
 
 # Heres my stats - <br >
