@@ -14,11 +14,11 @@
 - ⚡ Fun fact: I love to listening to music
 
 # Heres my stats - <br >
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TH3an)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TH3antheme=radical)
 
 
 # Stats of my Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3an&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3an&layout=compacttheme=radical)
 
 # My Streaks and contributions
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TH3an&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
