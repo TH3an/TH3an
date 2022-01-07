@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to listening to music
 
 # Heres my stats - <br >
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TH3an&show_iron=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TH3an&show_icons=true&theme=radical)
 
 
 # Stats of my Languages 
