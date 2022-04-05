@@ -1,10 +1,5 @@
 ### Hi There, I'm Thean [Thun Thean Nicky Facebook](https://www.facebook.com/thun.theansp) 👋 &nbsp; <img alt="thunthean | Count Views" src="https://komarev.com/ghpvc/?username=TH3an" />
 
-[[Invite bot](https://discord.com/oauth2/authorize?client_id=828154554624638976&permissions=4286053751&scope=bot)]
-
-[[Discord Server](https://discord.gg/8pbVDDamha)]
-
-
 ## You can call me Thunthean :) 
 
 - 👦 I'm from Cambodia Him/He
