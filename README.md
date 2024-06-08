@@ -2,7 +2,7 @@
 
 
 
-Discord: [Link](https://discord.io/angkorleak)                                                                                                        
+Discord: https://discord.io/angkorleak                                                                                                        
 
 
 
