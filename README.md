@@ -7,7 +7,7 @@ Discord: https://discord.io/angkorleak
 ## You can call me Thunthean :) 
 
 - 👦 I'm from Cambodia Him/He
-- 🔭 I’m currently working on a [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) | [Minecraft Development]([https://discord.com/](https://mcdev.io/))
+- 🔭 I’m currently working on a [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) | [Minecraft Development](https://mcdev.io/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listening to music
