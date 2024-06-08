@@ -1,6 +1,10 @@
 ### Hi There, I'm Thean [Thun Thean Nicky Facebook](https://www.facebook.com/thun.theansp) 👋 &nbsp; <img alt="thunthean | Count Views" src="https://komarev.com/ghpvc/?username=TH3an" />
 
-Discord: https://discord.io/angkorleak                                                                                                        
+
+
+Discord: [Link](https://discord.io/angkorleak)                                                                                                        
+
+
 
 ## You can call me Thunthean :) 
 
